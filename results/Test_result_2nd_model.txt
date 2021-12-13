@@ -1,0 +1,23 @@
+2021-12-12 08:11:18: load trained model
+Test_set(qp22) : 000000022935.png : 0.0929 second
+Test_set(qp22) : 000000002153.png : 0.0892 second
+Test_set(qp22) : 000000166287.png : 0.0576 second
+Test_set(qp22) : 000000025560.png : 0.0574 second
+Test_set(qp22) : 000000008021.png : 0.0529 second
+Test_set(qp22) : 000000155341.png : 0.0539 second
+Test_set(qp22) : 000000024610.png : 0.0536 second
+Test_set(qp22) : 000000023230.png : 0.0530 second
+Test_set(qp22) : 000000017627.png : 0.0527 second
+Test_set(qp22) : 000000027620.png : 0.0533 second
+Test_set(qp22) : 000000161397.png : 0.0538 second
+Test_set(qp22) : 000000009891.png : 0.0535 second
+Test_set(qp22) : 000000018150.png : 0.0533 second
+Test_set(qp22) : 000000025593.png : 0.0537 second
+Test_set(qp22) : 000000009769.png : 0.0535 second
+Test_set(qp22) : 000000165336.png : 0.0534 second
+Test_set(qp22) : 000000001000.png : 0.0536 second
+Test_set(qp22) : 000000022589.png : 0.0540 second
+Test_set(qp22) : 000000018837.png : 0.0532 second
+Test_set(qp22) : 000000015335.png : 0.0535 second
+2021-12-12 08:11:20: Datset: Test_set(qp22) 
+  PSNR = 35.70dB, SSIM = 0.9082
